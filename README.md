@@ -1,3 +1,5 @@
+AdminBundle has moved : see [https://github.com/larriereguichet/AdminBundle](https://github.com/larriereguichet/AdminBundle)
+
 # AdminBundle
 
 AdminBundle allows you to create flexible and robust management application, using a simple configuration,
